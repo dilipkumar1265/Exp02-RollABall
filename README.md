@@ -73,6 +73,7 @@ public class Code : MonoBehaviour
 
 
 ## Output:
-![alt text](ar_vr_exp2.png)
+![ar_vr_exp2](https://github.com/user-attachments/assets/4b532362-6072-4b33-8740-8705615d3f1a)
+
 ## Result:
 Thus, a 3D application for RollABall objects in unity is developed successfully.
